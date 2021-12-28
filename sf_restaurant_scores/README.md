@@ -19,30 +19,30 @@ Content
 
 The file Restaurant_Scores_CLEAN.xlsx contains the following columns:
 
-business_id	
+	business_id	
 
-business_name	
+	business_name	
 
-business_address	
+	business_address	
 
-business_city	
+	business_city	
 
-business_state	
+	business_state	
 
-business_postal_code	
+	business_postal_code	
 
-business_latitude	
+	business_latitude	
 
-business_longitude	
+	business_longitude	
 
-business_location	
+	business_location	
 
-business_phone_number	
+	business_phone_number	
 
-inspection_id	
+	inspection_id	
 
-inspection_date	
+	inspection_date	
 
-inspection_score	
+	inspection_score	
 
-inspection_type	
+	inspection_type	
