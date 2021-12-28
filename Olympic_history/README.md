@@ -38,7 +38,7 @@ The file noc_regions.csv contains the following columns:
 
   	NOC - (National Olympic Committee 3 letter code)
 	
-	Country name - (matches with regions in map_data("world"))
+  	Country name - (matches with regions in map_data("world"))
 	
 	Notes
 
