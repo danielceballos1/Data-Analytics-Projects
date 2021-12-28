@@ -20,7 +20,7 @@ The file athlete_events.csv contains the following columns:
 	15	Medal - Gold, Silver, Bronze, or NA
   
 The file noc_regions.csv contains the following columns:
-``1	NOC (National Olympic Committee 3 letter code)
+  1	NOC (National Olympic Committee 3 letter code)
 	2	Country name (matches with regions in map_data("world"))
 	3	Notes
 
