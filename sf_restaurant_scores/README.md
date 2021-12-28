@@ -14,3 +14,35 @@ low risk category: records violations that are low risk or have no immediate ris
 
 
 Columns violation_id, violation_description, risk_category were not needed for the following queries so they were removed before being imported into PgAdmin.
+
+Content
+
+The file Restaurant_Scores_CLEAN.xlsx contains the following columns:
+
+business_id	
+
+business_name	
+
+business_address	
+
+business_city	
+
+business_state	
+
+business_postal_code	
+
+business_latitude	
+
+business_longitude	
+
+business_location	
+
+business_phone_number	
+
+inspection_id	
+
+inspection_date	
+
+inspection_score	
+
+inspection_type	
