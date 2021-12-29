@@ -5,9 +5,17 @@ ________________________________________________________________________________
 Data set was retrieved from:
 https://ourworldindata.org/covid-deaths
 
-The dataset contains information on confirmed COVID cases, deaths from arond the world.
+The dataset contains information on confirmed COVID cases and deaths from arond the world.
 
-Specifically, I break down COVID cases and deaths per continent and look for any trends.
+Specifically, I break down COVID cases, deaths, and COVID fatality rates per continent and
+country.
+
+Data visualization can be found at:
+https://public.tableau.com/app/profile/daniel.ceballos/viz/CovidCasesandDeathsperCountry/Dashboard1
+
+
+
+
 
 ______________________________________________________________________________________
 
