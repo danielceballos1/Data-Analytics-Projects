@@ -15,19 +15,25 @@ Dataset contains 10 columns and 139837 rows
 
 The following columns were used for data exploration:
 
-  iso_code
+    iso_code
   
-  continent
+    continent
   
-  location
+    location
   
-  date
-  population
-  total_cases
-  new_cases
-  new_cases_smoothed
-  total_deaths
-  new_deaths
+    date
+  
+    population
+  
+    total_cases
+  
+    new_cases
+  
+    new_cases_smoothed
+  
+    total_deaths
+  
+    new_deaths
 
 
 ______________________________________________________________________________________
