@@ -16,8 +16,11 @@ Dataset contains 10 columns and 139837 rows
 The following columns were used for data exploration:
 
   iso_code
+  
   continent
+  
   location
+  
   date
   population
   total_cases
