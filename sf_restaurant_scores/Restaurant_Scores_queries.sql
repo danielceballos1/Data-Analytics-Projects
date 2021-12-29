@@ -1,4 +1,4 @@
-CREATE TABLE sf_restaurant_scores(
+CREATE TABLE sf_restaurant_scores (
 
 business_id INT,
 business_name VARCHAR,
