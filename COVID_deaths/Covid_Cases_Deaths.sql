@@ -13,8 +13,8 @@ new_deaths VARCHAR
 
 );
 
-select count(*)
-from covid_deaths
+SELECT COUNT(*)
+FROM covid_deaths
 
 
 
@@ -101,3 +101,4 @@ COALESCE(country_deaths, 0) AS country_deaths,
 COALESCE(country_cases, 0)AS country_cases,
 (CASE WHEN fatality_percentage_rate IS Null THEN 0 ELSE fatality_percentage_rate END)
 FROM null_cte
+
