@@ -1,4 +1,19 @@
-Olympic Games dataset can be found at https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results and was scraped from www.sports-reference.com. This dataset covers the Summer and Winter games from 1896 to 2016. This folder contains two files (athlete_events.csv and noc_regions.csv). 
+Dataset Exploration with Olypmic History
+
+_________________________________________________________________________
+
+
+Olympic Games dataset can be found at:
+
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Data was scraped from www.sports-reference.com
+
+This dataset covers the Summer and Winter games from 1896 to 2016.
+
+This folder contains two files (athlete_events.csv and noc_regions.csv). 
+
+_________________________________________________________________________
 
 Content
 
