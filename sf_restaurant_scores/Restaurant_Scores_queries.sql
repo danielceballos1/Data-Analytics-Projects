@@ -84,10 +84,6 @@ ORDER BY low_risk DESC, no_risk DESC, mod_risk DESC, high_risk DESC
 
 
 
---- test--
-
-
-
 
 
 
