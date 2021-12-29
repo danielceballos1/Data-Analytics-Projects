@@ -4,12 +4,12 @@ iso_code VARCHAR,
 continent VARCHAR,
 location VARCHAR,
 date DATE,
-population	VARCHAR,
-total_cases	VARCHAR,
+population VARCHAR,
+total_cases VARCHAR,
 new_cases VARCHAR,
 new_cases_smoothed VARCHAR,
 total_deaths VARCHAR,
-new_deaths	VARCHAR
+new_deaths VARCHAR
 
 );
 
