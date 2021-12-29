@@ -4,7 +4,9 @@ ________________________________________________________________________________
 
 Data set was retrieved from:
 https://ourworldindata.org/covid-deaths
+
 The dataset contains information on confirmed COVID cases, deaths from arond the world.
+
 Specifically, I break down COVID cases and deaths per continent and look for any trends.
 
 ______________________________________________________________________________________
