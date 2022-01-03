@@ -60,7 +60,7 @@ WHERE neighbourhood = 'West Hollywood'
 AND property_type = 'Apartment'
 GROUP BY neighbourhood
 
--- Number of house searches in the Inglewood neighbourhood area have a TV as an amenity
+-- Number of house searches in the Inglewood neighbourhood area that have a TV as an amenity
 
 
 SELECT COUNT(DISTINCT ID)
