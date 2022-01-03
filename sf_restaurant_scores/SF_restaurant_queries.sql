@@ -124,3 +124,5 @@ SELECT business_name,
 DENSE_RANK () OVER (ORDER BY MIN(inspection_score)), MIN(inspection_score)
 FROM sf_restaurant_scores
 GROUP BY business_name
+
+
