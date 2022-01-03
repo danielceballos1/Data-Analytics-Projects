@@ -97,7 +97,7 @@ FROM sf_restaurant_scores
 WHERE violation_description ILIKE '%water%'
 
 
-
+-- Replace NULL values with No risk
 
 SELECT *, COALESCE(risk_category, 'No Risk')
 FROM sf_restaurant_scores
