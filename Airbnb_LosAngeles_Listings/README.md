@@ -73,18 +73,18 @@ The file Airbnb_listings_details.xlsx contains the following columns:
   
   	Amenities
   
-  Price
+  	Price
   
-  Cleaning_Fee
+  	Cleaning_Fee
   
-  Guests_Included
+  	Guests_Included
   
-  Minimum_Nights
+  	Minimum_Nights
   
-  Maximum_Nights
+  	Maximum_Nights
   
-  Number_of_Reviews
+  	Number_of_Reviews
   
-  Review_Scores_Rating
+  	Review_Scores_Rating
   
-  Cancellation_Policy
+  	Cancellation_Policy
