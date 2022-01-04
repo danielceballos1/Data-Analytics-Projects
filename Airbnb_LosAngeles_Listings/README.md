@@ -41,37 +41,37 @@ The file Airbnb_listings_details.xlsx contains the following columns:
 
 	ID
   
-  Host_Name
+  	Host_Name
   
-  Host_Since
+  	Host_Since
+  	
+  	Host_Response_Rate
   
-  Host_Response_Rate
+  	Neighbourhood
   
-  Neighbourhood
+  	City
   
-  City
+  	State
   
-  State
+  	Zipcode
   
-  Zipcode
+  	Country
   
-  Country
+  	Property_Type
   
-  Property_Type
+  	Room_Type
   
-  Room_Type
+  	Accommodates
   
-  Accommodates
+  	Bathrooms
   
-  Bathrooms
+  	Bedrooms
   
-  Bedrooms
+ 	Beds
   
-  Beds
+  	Bed_Type
   
-  Bed_Type
-  
-  Amenities
+  	Amenities
   
   Price
   
