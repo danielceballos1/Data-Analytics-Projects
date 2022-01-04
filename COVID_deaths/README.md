@@ -1,9 +1,13 @@
 Dataset Exploration with Our World in Data
 
-______________________________________________________________________________________
+_____________________________________________________________________________________________________
 
 Data set was retrieved from:
 https://ourworldindata.org/covid-deaths
+
+_____________________________________________________________________________________________________
+
+Context
 
 The dataset contains information on confirmed COVID cases and deaths from arond the world.
 
@@ -19,9 +23,10 @@ https://public.tableau.com/app/profile/daniel.ceballos/viz/CovidCasesandDeathspe
 
 
 
-______________________________________________________________________________________
+_____________________________________________________________________________________________________
 
-Context
+
+Content
 
 Dataset contains 10 columns and 139837 rows
 
@@ -48,5 +53,4 @@ The following columns were used for data exploration:
     new_deaths
 
 
-______________________________________________________________________________________
 
