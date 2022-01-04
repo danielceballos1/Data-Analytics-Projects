@@ -9,6 +9,10 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 
 Data was scraped from www.sports-reference.com
 
+_________________________________________________________________________
+
+Context
+
 This dataset covers the Summer and Winter games from 1896 to 2016.
 
 This folder contains two files (athlete_events.csv and noc_regions.csv). 
