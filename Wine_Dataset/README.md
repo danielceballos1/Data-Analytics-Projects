@@ -21,7 +21,7 @@ Content
 
 The file winemag.xlsx contains the following columns:
 
-	    ID
+      ID
       
       country
       
